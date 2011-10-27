@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[pt_BR]=/home/lucasaquiles/eclipse/icon.xpm
+Name[pt_BR]=Eclipse
+Exec=/home/lucasaquiles/eclipse/eclipse
+Comment[pt_BR]=Eclipse IDE
+Name=Eclipse
+Comment=Eclipse IDE
+Icon=/home/lucasaquiles/eclipse/icon.xpm
